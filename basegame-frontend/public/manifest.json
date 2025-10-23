@@ -1,0 +1,8 @@
+{
+  "short_name": "BaseGame",
+  "name": "BaseGame: 15 Dakikada Zengin Olma Oyunu",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ff00ff",
+  "background_color": "#ffffff"
+}
